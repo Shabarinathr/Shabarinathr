@@ -23,7 +23,7 @@ Designed a responsive web application for online consultations, streamlined appo
 - **E-Learning Hub:**  
 Built a modular learning platform with user authentication, quizzes, and course management, encouraging interactive digital education.
 
-- **Astrology Webpage:**  
+- [Astrology Webpage](https://github.com/Shabarinathr/Estrolity): 
 Brought together frontend and backend skills to offer personalized astrological insights with seamless backend services.
 
 ***
