@@ -1,5 +1,4 @@
 
-
 # 👋 Hey there! I’m Shabarinath Raghunath
 
 🔍 **Exploring AI for Real-World Impact**  
