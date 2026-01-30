@@ -17,7 +17,7 @@ Developed a BERT/RoBERTa-based system to spot misleading sustainability claims, 
 - **Live Object Detection App:**  
 Engineered a high-accuracy YOLOv3-powered tool using OpenCV and Python, making real-time object detection accessible and interactive through a custom GUI.
 
-- **[Pulmora Healthcare](pulmorahealthcare.in)**  
+- **[Pulmora Healthcare](http://pulmorahealthcare.in)**  
 Designed a responsive web application for online consultations, streamlined appointments, and secure patient records—making healthcare more connected and user-centric.
 
 - **E-Learning Hub:**  
